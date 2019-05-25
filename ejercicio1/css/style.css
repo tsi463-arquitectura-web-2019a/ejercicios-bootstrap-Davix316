@@ -1,0 +1,25 @@
+
+
+body{
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 10%;
+}
+
+.title{
+	height: 40px;
+	font-family: Arial;
+	background-color: #33BEBE;
+	color: #ffffff;
+	text-indent: 10pt;
+	padding: 5pt;
+}
+
+.interno{
+	margin-top: 15px;
+}
+
+.parrafo{
+	font-family: Arial;
+	color: #7C8B88;
+}
